@@ -1,4 +1,15 @@
 # State Machine
 
-Let refer to the context of example in README.md of c++ directory.
+## Build
 
+execute build_example
+
+## Example
+
+Context is:
+
+  ![Motor-state](https://www.codeproject.com/KB/cpp/1087619/Motor.png)
+
+## Reference
+
+* [sourcemaking.com](https://sourcemaking.com/design_patterns/state/java/5)
