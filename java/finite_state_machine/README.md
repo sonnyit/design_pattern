@@ -13,3 +13,4 @@ Context is:
 ## Reference
 
 * [sourcemaking.com](https://sourcemaking.com/design_patterns/state/java/5)
+* [using-enum-as-state-machine](http://vanillajava.blogspot.com/2011/06/java-secret-using-enum-as-state-machine.html)
